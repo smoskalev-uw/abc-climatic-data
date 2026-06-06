@@ -1,6 +1,6 @@
 # Alberta Building Code (ABC) Climatic Data
 
-A clean, machine-readable dataset containing the regional design and environmental constants for municipalities across Alberta, sourced directly from **Appendix C, Table C-2 of the Alberta Building Code**. 
+A clean, machine-readable dataset containing the regional design and environmental constants for municipalities across Alberta, sourced directly from **Appendix C, Table C-2 of the 2023 Alberta Building Code**. 
 
 This repository provides the official tabular data in an organized, flat format to eliminate the need for manual data entry or text extraction from digital building code documents.
 
