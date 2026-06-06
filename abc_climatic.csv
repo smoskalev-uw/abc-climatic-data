@@ -1,0 +1,148 @@
+location,Ss,Sr,q10,q50
+Acadia Valley,1.5,0.1,0.38,0.49
+Airdrie,1.2,0.1,0.37,0.46
+Athabsca,1.5,0.1,0.27,0.36
+Banff,3.3,0.1,0.26,0.32
+Barrhead,1.7,0.1,0.35,0.44
+Bashaw,1.8,0.1,0.3,0.38
+Bassano,1.3,0.1,0.39,0.51
+Beaumont,1.9,0.1,0.34,0.43
+Beaverlodge,2.4,0.1,0.27,0.36
+Berwyn,2.3,0.1,0.24,0.33
+Blackfalds,1.9,0.1,0.32,0.4
+Bon Accord,1.8,0.1,0.34,0.43
+Bonnyville,1.9,0.1,0.29,0.37
+Bow Island,1.4,0.1,0.44,0.55
+Bowden,1.6,0.1,0.33,0.41
+Brooks,1.2,0.1,0.35,0.44
+Bruderheim,1.8,0.1,0.33,0.42
+Calgary,1.1,0.1,0.38,0.48
+Calmar,1.9,0.1,0.33,0.42
+Campsie,1.7,0.1,0.33,0.44
+Camrose,2,0.1,0.31,0.39
+Canmore,3.2,0.1,0.3,0.37
+Cardston,1.5,0.1,0.58,0.72
+Carstairs,1.5,0.1,0.35,0.44
+Castor,1.8,0.1,0.28,0.35
+Claresholm,1.3,0.1,0.46,0.58
+Coalsdale,1.2,0.1,0.52,0.65
+Cochrane,1.4,0.1,0.38,0.48
+Cold Lake,1.7,0.1,0.29,0.38
+Coleman,2.7,0.3,0.5,0.63
+Coronation,1.9,0.1,0.3,0.37
+Cowley,1.6,0.1,0.81,1.01
+Crossfield,1.4,0.1,0.36,0.45
+Daysland,1.9,0.1,0.28,0.34
+Devon,1.9,0.1,0.35,0.44
+Diamond Valley,1.4,0.1,0.52,0.65
+Didsbury,1.4,0.1,0.33,0.42
+Drayton Valley,2,0.1,0.32,0.42
+Drumheller,1.2,0.1,0.35,0.44
+Eckville,1.9,0.1,0.31,0.39
+Edmonton,1.7,0.1,0.36,0.45
+Edson,2.1,0.1,0.37,0.46
+Elk Point,1.9,0.1,0.29,0.37
+Embarras Portage,2.2,0.1,0.28,0.37
+Fairview,2.4,0.1,0.26,0.35
+Falher,2.4,0.1,0.28,0.36
+Foremost,1.5,0.1,0.44,0.56
+Fort Chipewyan,2.5,0.1,0.29,0.39
+Fort MacLeod,1.2,0.1,0.54,0.68
+Fort McMurray,1.5,0.1,0.28,0.35
+Fort Saskatchewan,1.6,0.1,0.34,0.43
+Fort Vermillion,2.1,0.1,0.23,0.3
+Fox Creek,2.2,0.1,0.3,0.39
+Gibbons,1.8,0.1,0.34,0.43
+Gleichen,1.3,0.1,0.39,0.51
+Grand Centre,1.9,0.1,0.29,0.38
+Grande Cache,3,0.1,0.35,0.45
+Grande Prairie,2.2,0.1,0.32,0.43
+Granum,1.4,0.1,0.5,0.63
+Grimshaw,2.3,0.1,0.24,0.33
+Habay,2.4,0.1,0.23,0.3
+Hanna,1.7,0.1,0.37,0.45
+Hardisty,1.7,0.1,0.29,0.36
+High Level,2.3,0.1,0.23,0.3
+High Prairie,2.3,0.1,0.31,0.4
+High River,1.3,0.1,0.52,0.65
+Hinton,2.6,0.1,0.37,0.46
+Innisfail,1.7,0.1,0.33,0.41
+Irvine,1.4,0.1,0.37,0.47
+Jasper,3,0.1,0.26,0.32
+Keg River,2.4,0.1,0.23,0.3
+Killam,1.9,0.1,0.28,0.35
+Kitscoty,1.9,0.1,0.31,0.38
+Lac la Biche,1.6,0.1,0.27,0.36
+Lacombe,1.9,0.1,0.32,0.4
+Lake Louise,5.5,0.1,0.25,0.33
+Lamont,1.8,0.1,0.33,0.42
+Leduc,1.9,0.1,0.33,0.41
+Lethbridge,1.2,0.1,0.53,0.66
+Lloydminster,2,0.1,0.32,0.4
+Magrath,1.5,0.1,0.55,0.69
+Manning,2.3,0.1,0.23,0.3
+Mayerthorpe,2,0.1,0.32,0.43
+McLennan,2.4,0.1,0.28,0.36
+Medicine Hat,1.1,0.1,0.38,0.48
+Milk River,1.5,0.1,0.54,0.68
+Millet,1.9,0.1,0.32,0.4
+Morinville,1.9,0.1,0.34,0.43
+Morrin,1.6,0.1,0.33,0.41
+Mundare,1.9,0.1,0.31,0.39
+Nanton,1.3,0.1,0.5,0.63
+Okotoks,1.4,0.1,0.52,0.64
+Olds,1.6,0.1,0.33,0.41
+Oyen,1.7,0.1,0.37,0.48
+Peace River,2.2,0.1,0.24,0.32
+Penhold,1.7,0.1,0.32,0.4
+Picture Butte,1.2,0.1,0.51,0.63
+Pincher Creek,1.5,0.1,0.77,0.96
+Ponoka,1.9,0.1,0.32,0.4
+Provost,1.9,0.1,0.32,0.41
+Rainbow Lake,2.8,0.1,0.23,0.3
+Ranfurly,1.9,0.1,0.29,0.36
+Raymond,1.4,0.1,0.53,0.66
+Red Deet,1.8,0.1,0.32,0.4
+Redcliff,1.3,0.1,0.38,0.48
+Redwater,1.8,0.1,0.34,0.43
+Rimbey,1.9,0.1,0.31,0.39
+Rocky Mountain House,1.9,0.1,0.29,0.36
+Ryley,1.9,0.1,0.3,0.37
+Sangudo,2,0.1,0.33,0.44
+Sedgewick,1.9,0.1,0.28,0.35
+Sexsmith,2.4,0.1,0.32,0.43
+Sherwood Park,1.8,0.1,0.36,0.45
+Slave Lake,1.9,0.1,0.28,0.37
+Smokey Lake,1.9,0.1,0.32,0.41
+Spirit River,2.4,0.1,0.29,0.38
+Spruce Grove,1.8,0.1,0.36,0.45
+Stavely,1.4,0.1,0.48,0.6
+Stettler,1.9,0.1,0.29,0.36
+Stony Plain,1.7,0.1,0.36,0.45
+Strathmore,1.3,0.1,0.38,0.48
+St. Albert,1.8,0.1,0.36,0.45
+St. Paul,1.9,0.1,0.29,0.37
+Suffield,1.3,0.1,0.39,0.49
+Sundre,1.5,0.1,0.34,0.42
+Swan Hills,2.9,0.1,0.28,0.37
+Sylvan Lake,1.9,0.1,0.32,0.41
+Taber,1.2,0.1,0.5,0.63
+Thorhild,1.8,0.1,0.32,0.41
+Three Hills,1.6,0.1,0.33,0.41
+Tofield,1.9,0.1,0.3,0.37
+Trochu,1.6,0.1,0.33,0.41
+Two Hills,1.9,0.1,0.29,0.36
+Valleyview,2.3,0.1,0.34,0.42
+Vauxhall,1.2,0.1,0.44,0.57
+Vegreville,1.9,0.1,0.29,0.36
+Vermillion,1.7,0.1,0.29,0.36
+Viking,1.9,0.1,0.29,0.36
+Vulcan,1.3,0.1,0.49,0.61
+Wagner,1.9,0.1,0.28,0.37
+Wainwright,2,0.1,0.29,0.36
+Warner,1.4,0.1,0.54,0.68
+Wembley,2.3,0.1,0.3,0.4
+Westlock,1.9,0.1,0.33,0.42
+Wetaskiwin,2,0.1,0.31,0.39
+Whitecourt,1.9,0.1,0.28,0.37
+Wimborne,1.6,0.1,0.32,0.4
